@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: kasiedemo.demo2.SeleniumTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.065 s <<< FAILURE! - in kasiedemo.demo2.SeleniumTest
+kasiedemo.demo2.SeleniumTest  Time elapsed: 0.065 s  <<< ERROR!
+java.lang.IllegalStateException: The driver executable must exist: /Users/kasieshoultz/IdeaProjects/com.newproject/src/test/resources/browserBinaries/chromedriverMac
+	at kasiedemo.demo2.SeleniumTest.beforeAll(SeleniumTest.java:16)
+

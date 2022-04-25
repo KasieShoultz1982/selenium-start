@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: kasiedemo.demo2.WithConfigurationTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0 s <<< FAILURE! - in kasiedemo.demo2.WithConfigurationTest
+kasiedemo.demo2.WithConfigurationTest  Time elapsed: 0 s  <<< ERROR!
+java.lang.NullPointerException: Cannot invoke "String.toLowerCase()" because the return value of "java.lang.System.getProperty(String)" is null
+	at kasiedemo.demo2.WithConfigurationTest.beforeAll(WithConfigurationTest.java:19)
+
